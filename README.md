@@ -2,10 +2,6 @@
 
 A simple, fast, and secure command-line tool for hiding secret text messages inside PNG images using LSB steganography. This project is written in modern C++ with an Object-Oriented approach and has no external dependencies.
 
-![GitHub language count](https://img.shields.io/github/languages/count/shivprasad05/https://github.com/shivprasad05/Steganography.git?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/shivprasad05/yhttps://github.com/shivprasad05/Steganography.git?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-
 A command-line interface showing the steganography tool in action.
 
 ---
